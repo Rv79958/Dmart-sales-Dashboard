@@ -1,1 +1,6 @@
-# Dmart-sales-Dashboard
+# Dmart-sales-DashboarD-Mart Sales Dashboard project involved the creation of a detailed interactive dashboard for D-Mart, picturing sales performances across different product categories, geographies, and time. The major goal of this project is to display, through real-time insights, the sales trends, product performances, and customer behaviors that will enable management to make data-driven decisions. This would be used to track the key metrics of total sales, growth of sales, profit margin, and customer demographics. As a matter of fact, the dashboard did enable stakeholders to view sales data by product category, store location, and time period for an overall view of business performance.
+Skills Used:
+Power BI: Created an interactive dashboard  and create visualizations, offering dynamic filtering and drill-down capabilities to analyze in depth.
+SQL: Extracted sales number from the database, cleaned, and aggregated all data for consistency and accuracy.
+Data Analysis: Conducting a monthly trend analysis of sales, product performance, and the distribution of sales at the regional level is done to develop actionable insights.
+DAX: Utilized DAX to create calculated measures and custom KPIs necessary for detailed sales and profitability reporting.
